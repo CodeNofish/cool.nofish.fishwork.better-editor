@@ -1,2 +1,3 @@
-# cool.nofish.fishwork.better-editor
+# Fishwork Better Editor
+
 Enhance your Unity Editor usage experience.
